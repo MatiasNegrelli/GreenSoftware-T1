@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Huella de Carbono para Notebooks",
+  "description": "Una aplicación para ayudar a los estudiantes a calcular la huella de carbono de su notebook, de acuerdo con los requisitos de la materia Green Software. Registra el consumo de energía, calcula las emisiones de CO2eq anuales y determina la cantidad de árboles necesarios para la compensación.",
+  "requestFramePermissions": []
+}
